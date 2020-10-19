@@ -1,0 +1,13 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+.page-view-frontpage .home-grid-row img {
+  max-width: 200px;
+  height: auto;
+}
+
+.page-view-frontpage .home-grid-row{
+  width: 33%;
+}
